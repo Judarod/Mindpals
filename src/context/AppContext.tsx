@@ -3,7 +3,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import { UserState, INITIAL_USER_STATE, MoodType, ItemId, PetType } from '../constants/types';
 import { REWARDS } from '../constants/theme';
 
-const STORAGE_KEY = '@mindpals_user_state';
+const STORAGE_KEY = '@cloudlings_user_state';
 
 type AppAction =
   | { type: 'LOAD_STATE'; payload: UserState }

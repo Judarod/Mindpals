@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MindPals",
-    "slug": "mindpals",
+    "name": "Cloudlings",
+    "slug": "cloudlings",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.mindpals.app"
+      "bundleIdentifier": "com.cloudlings.app"
     },
     "android": {
       "adaptiveIcon": {
@@ -23,7 +23,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.mindpals.app"
+      "package": "com.cloudlings.app"
     },
     "web": {
       "favicon": "./assets/favicon.png",
